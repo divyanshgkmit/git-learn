@@ -1,1 +1,1 @@
-console.log("This is index file and edited with branch dev-divyansh");
+console.log("This is index file!");
